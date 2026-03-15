@@ -1,0 +1,1 @@
+C:\apex_gpu_env\Scripts\python.exe C:\apex_gpu_env\OGv-2\ApexVision.py
